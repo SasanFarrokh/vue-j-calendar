@@ -1,0 +1,28 @@
+{
+  "name": "vue-j-calendar",
+  "version": "1.0.0",
+  "description": "Vuejs Jalaali/Gregorian Calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SasanFarrokh/vue-j-calendar.git"
+  },
+  "keywords": [
+    "vue",
+    "calendar",
+    "jalaali"
+  ],
+  "author": "Sasan Farrokh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SasanFarrokh/vue-j-calendar/issues"
+  },
+  "homepage": "https://github.com/SasanFarrokh/vue-j-calendar#readme",
+  "devDependencies": {
+    "lodash": "^4.17.15",
+    "moment-jalaali": "^0.9.1"
+  }
+}

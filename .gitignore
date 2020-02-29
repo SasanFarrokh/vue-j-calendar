@@ -1,0 +1,42 @@
+# dependencies
+node_modules
+
+# logs
+*.log*
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+#static/sw.js - Temporarily removed this until we fix it TODO: Fix sw.js
+
+# Intellij Idea
+.idea
+*.iml
+
+# VSCode
+.vscode
+
+# NPM Lock file
+package-lock.json
+
+# MacOS
+.DS_Store
+
+# local config
+config/local.js
+
+# service workers
+sw.*
+
+# Atom
+.tern-project
+
+# i18n
+translations.json
+translations.edited.json
+
+coverage
+
+webpack.config.js
