@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/SasanFarrokh/vue-j-calendar#readme",
   "devDependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment-jalaali": "^0.9.1"
   }
 }
